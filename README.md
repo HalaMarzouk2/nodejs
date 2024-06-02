@@ -1,3 +1,7 @@
+
+
+![image](https://github.com/HalaMarzouk2/nodejs/assets/132224168/4a5f5a4c-c662-4e50-8e12-8187fc61c23b)
+
 # nodejs
 "In this project, I developed a Node.js application and containerized it using Docker. I then pushed the Docker image to Docker Hub, making it readily available for deployment.
 
