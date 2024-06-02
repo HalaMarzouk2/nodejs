@@ -1,0 +1,23 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-js
+  labels:
+    env: js
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      env: js
+  template:
+    metadata:
+      labels:
+        env: js
+    spec:
+      containers:
+      - name: web-js-container
+        image: hala722/nodejs
+        ports:
+        - containerPort: 3000        ##also usine the same port inside the code of nodejs 
+
