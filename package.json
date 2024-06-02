@@ -1,0 +1,16 @@
+{
+  "name": "project_node",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+  "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
