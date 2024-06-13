@@ -14,7 +14,8 @@ To share the details of my project, I have documented the step-by-step process o
 
 Overall, this project showcases my ability to build and deploy a containerized Node.js application using modern DevOps practices, including the use of Docker and Kubernetes. I am proud of the robust and scalable solution I have created, and I believe it demonstrates my proficiency in these technologies."
 
-#Prerequisites
+
+#Prerequisites.
  Before you begin, ensure you have the following installed on your machine:
  1)node js 
  2)Git
